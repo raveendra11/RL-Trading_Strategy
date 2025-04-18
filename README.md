@@ -76,12 +76,6 @@ Make sure `sample_stock_data_full.csv` is in the same directory.
 - [ ] Implement advanced reward functions
 - [ ] Hyperparameter tuning and experiment logging
 
-## 👤 Author
-
-Raveendra Pujari  
-Master’s Student, Computer Science  
-University of South Dakota
-
 ---
 
 📫 For questions or contributions, reach out via [GitHub](https://github.com/raveendra11)
